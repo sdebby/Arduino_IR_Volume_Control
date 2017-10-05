@@ -1,6 +1,9 @@
 # Arduino IR Volume Control
 Arduino volume control-  will control the TV/Receiver volume using IR LEDS
+![N|Handle image](https://github.com/sdebby/Arduino_IR_Volume_Control/blob/master/images/fr_2103.jpg)
+
 Small size disk with rotary top (Amazon DOT stile)
+
 ![N|Handle image](https://github.com/sdebby/Arduino_IR_Volume_Control/blob/master/images/EcoRoll.JPG)
 
 # Hardware
