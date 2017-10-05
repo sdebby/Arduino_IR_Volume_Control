@@ -30,4 +30,4 @@ https://github.com/z3t0/Arduino-IRremote
 ![N|Schemaic image](https://github.com/sdebby/Arduino_IR_Volume_Control/blob/master/images/VolControll.v0_bb.jpg)
 
 # Video
-[![YT_Video](https://img.youtube.com/vi/DBQewHMMKIc/0.jpg)](https://www.youtube.com/watch?v=kdwFtUYQnUo)
+[![YT_Video](https://img.youtube.com/vi/DBQewHMMKIc/0.jpg)](https://www.youtube.com/watch?v=DBQewHMMKIc)
