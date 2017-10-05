@@ -19,6 +19,13 @@ Small size disk with rotary top (Amazon DOT stile)
 Using IRremote librery: 
 https://github.com/z3t0/Arduino-IRremote
 
+# Operating
+* Pressing the rotary switch will wake up the device, to the previous mode.
+* Rotating clockwise will increase the volume.
+* Rotating counter clockwise will decrease the volume.
+* Pressing the rotary switch while device awake, will change the control device mode and rotary leds, and mute one device. - Green led means controlling the TV volume and Red led means controlling the sound receiver volume.
+* The control will enter sleep mode 10 seconds after last operation.
+
 # Schematics
 ![N|Schemaic image](https://github.com/sdebby/Arduino_IR_Volume_Control/blob/master/images/VolControll.v0_bb.jpg)
 
